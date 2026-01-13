@@ -1,0 +1,14 @@
+.sideMenu {
+  width: 20%;
+  height: 40vh;
+  display: flex;
+  /* flex-direction: column; */
+  align-items: center;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 10px;
+  padding: 10px 30px;
+  background-color: white;
+  border: 3px solid rgb(51, 150, 153);
+  box-shadow: gainsboro 0px 0px 20px 0px;
+}

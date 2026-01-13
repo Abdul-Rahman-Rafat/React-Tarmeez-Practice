@@ -1,0 +1,11 @@
+.bodyContainer {
+  width: 80%;
+  display: flex;
+  margin: auto;
+  justify-content: center;
+  gap: 20px;
+
+  /* border: 3px solid rgb(51, 150, 153); */
+  /* box-shadow: gainsboro 0px 0px 20px 0px; */
+  padding: 10px 30px;
+}
